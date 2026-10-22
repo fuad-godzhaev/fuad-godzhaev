@@ -3,7 +3,8 @@
 Computer Science graduate (TU Dublin, 2026) based in Dublin. I like software that keeps working without someone else's server: peer-to-peer networking, self-hosting and privacy-respecting apps.
 
 **Looking for a graduate or junior role in software, cloud or IT infrastructure in Ireland.**<br>
-[LinkedIn](https://www.linkedin.com/in/fuad-godzhaev/) · [godzhaevfuad@gmail.com](mailto:godzhaevfuad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fuad--godzhaev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fuad-godzhaev/)
+[![Email](https://img.shields.io/badge/Email-godzhaevfuad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godzhaevfuad@gmail.com)
 
 ### Right now
 
@@ -47,11 +48,29 @@ Where I learn infrastructure by breaking it first.
 | n8n | Small automations between my services |
 | UniFi Wi-Fi | Roaming and Wi-Fi tuning |
 
-### Lessons I learned the hard way
-
-- **Test the riskiest piece in week one.** I first tried running an existing Node.js server inside the Android app. Native modules wouldn't cross-compile, and I only found out after building on top of it. I rewrote the data layer in Kotlin instead.
-- **Say where every number comes from.** In Aura's report, each result is marked as measured on real code or estimated by a model, along with which way it's likely to be wrong. It made the conclusions much easier to defend.
 
 ### Outside of code
 
 Photography, 3D printing my own designs, and building VR scenes in Godot. I speak English, Russian, Azerbaijani and Turkish.
+
+### Tech stack
+
+**Languages**<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Mobile & Games**<br>
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
